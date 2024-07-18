@@ -1,1 +1,1 @@
-city:gobi
+city:coimbatore
